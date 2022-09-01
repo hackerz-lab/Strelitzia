@@ -1,7 +1,7 @@
 # _Strelitzia-multi-device-bot_
 
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
-#### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
+
 <!---## Readme first before using 👇❌
 ### (Due to the removal of heroku-github integration, this project is currently unable to deploy to heroku servers. As of this, existing users also couldn't update their bots.)
 Visit [Heroku status site](https://status.heroku.com) for more details
